@@ -1,0 +1,3 @@
+C:/Users/leras/source/repos/3_sem_labs/out/build/x64-Debug/CMakeFiles/3_sem_labs.dir
+C:/Users/leras/source/repos/3_sem_labs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/leras/source/repos/3_sem_labs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

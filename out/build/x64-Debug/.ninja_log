@@ -1,0 +1,13 @@
+# ninja log v5
+27	3233	7248680721827012	CMakeFiles/3_sem_labs.dir/pipe.cpp.obj	a2006fbbbe23b30f
+39	3325	7248680722771555	CMakeFiles/3_sem_labs.dir/station.cpp.obj	93173bf2e767c740
+1507	1781	7248811887817281	3_sem_labs.exe	e5a04c7d3c0528bf
+5	1506	7248811885573672	CMakeFiles/3_sem_labs.dir/Lab2_GershAM.cpp.obj	947ea290a91c9892
+44	3530	7248681783683994	CMakeFiles/3_sem_labs.dir/GTS.cpp.obj	183d1ee2d9639ac0
+4	1366	7248846662214918	CMakeFiles/3_sem_labs.dir/Lab2_GershAM.cpp.obj	947ea290a91c9892
+1367	1563	7248846663770088	3_sem_labs.exe	e5a04c7d3c0528bf
+26	1949	7248865896730664	CMakeFiles/3_sem_labs.dir/Lab2_GershAM.cpp.obj	947ea290a91c9892
+20	2403	7248865901139455	CMakeFiles/3_sem_labs.dir/GTS.cpp.obj	183d1ee2d9639ac0
+2404	2648	7248865903204553	3_sem_labs.exe	e5a04c7d3c0528bf
+19	1045	7248867201085069	CMakeFiles/3_sem_labs.dir/pipe.cpp.obj	a2006fbbbe23b30f
+1046	1259	7248867202692966	3_sem_labs.exe	e5a04c7d3c0528bf
